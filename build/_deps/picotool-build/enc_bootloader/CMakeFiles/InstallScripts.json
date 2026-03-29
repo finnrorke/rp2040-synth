@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/finn/Documents/GitHub/rp2040-synth/build/_deps/picotool-build/enc_bootloader/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

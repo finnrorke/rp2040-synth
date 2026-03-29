@@ -1,0 +1,2 @@
+/home/finn/Documents/GitHub/rp2040-synth/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/edit_cache.dir
+/home/finn/Documents/GitHub/rp2040-synth/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/rebuild_cache.dir

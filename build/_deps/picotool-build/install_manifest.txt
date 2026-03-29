@@ -1,0 +1,7 @@
+/home/finn/Documents/GitHub/rp2040-synth/build/_deps/picotool/picotool
+/home/finn/Documents/GitHub/rp2040-synth/build/_deps/picotool/picotoolTargets.cmake
+/home/finn/Documents/GitHub/rp2040-synth/build/_deps/picotool/picotoolTargets-release.cmake
+/home/finn/Documents/GitHub/rp2040-synth/build/_deps/picotool/picotoolConfig.cmake
+/home/finn/Documents/GitHub/rp2040-synth/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/finn/Documents/GitHub/rp2040-synth/build/_deps/picotool/enc_bootloader.elf
+/home/finn/Documents/GitHub/rp2040-synth/build/_deps/picotool/enc_bootloader_mbedtls.elf

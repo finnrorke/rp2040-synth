@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/finn/Documents/GitHub/rp2040-synth/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/home/finn/Documents/GitHub/rp2040-synth/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/home/finn/Documents/GitHub/rp2040-synth/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/home/finn/Documents/GitHub/rp2040-synth/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/home/finn/Documents/GitHub/rp2040-synth/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/home/finn/Documents/GitHub/rp2040-synth/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/home/finn/Documents/GitHub/rp2040-synth/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/home/finn/Documents/GitHub/rp2040-synth/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/home/finn/Documents/GitHub/rp2040-synth/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/home/finn/Documents/GitHub/rp2040-synth/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/home/finn/Documents/GitHub/rp2040-synth/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}
