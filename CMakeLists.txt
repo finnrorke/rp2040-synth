@@ -9,8 +9,13 @@ set(CMAKE_C_STANDARD 23)
 pico_sdk_init()
 
 add_executable(rp2040_synth
+    src/config/board_config.c
+    src/indicators/status_led.c
     src/main.c
+    src/matrix/matrix.c
 )
+
+target_include_directories(rp2040_synth PRIVATE src)
 
 target_link_libraries(rp2040_synth
     pico_stdlib
