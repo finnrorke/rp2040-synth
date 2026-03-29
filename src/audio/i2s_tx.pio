@@ -1,0 +1,17 @@
+.pio_version 0
+
+.program i2s_tx
+.side_set 2
+
+.wrap_target
+    out pins, 1 side 0b00
+    set x, 30 side 0b01
+left_channel:
+    out pins, 1 side 0b00
+    jmp x-- left_channel side 0b01
+    out pins, 1 side 0b10
+    set x, 30 side 0b11
+right_channel:
+    out pins, 1 side 0b10
+    jmp x-- right_channel side 0b11
+.wrap
